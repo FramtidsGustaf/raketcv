@@ -2,7 +2,7 @@
 
 RaketCV är ett verktyg för att förenkla jobbsöksprocessen.
 
-Skapa ditt cv och låt sedan Open AI skriva ett första utkast på ett personligt brev.
+Skapa ditt cv och låt sedan Open AI skriva ett första utkast till ett personligt brev.
 
 ## Så funkar det
 
