@@ -1,0 +1,11 @@
+{
+  "cors": {
+    "origin": "*",
+    "methods": "GET, POST, PUT, DELETE",
+    "headers": "Content-Type,Authorization"
+  },
+  "routesPath": "/api/v1/routes",
+  "logger": true,
+  "timeout": 20000,
+  "typescript": true
+}

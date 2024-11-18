@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "Preserve",
+    "moduleDetection": "force",
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "skipLibCheck": true,
+    "outDir": "lib-test",
+    "declaration": true,
+    "pretty": true
+  },
+  "exclude": ["node_modules"]
+} /* Skip type checking all .d.ts files. */
